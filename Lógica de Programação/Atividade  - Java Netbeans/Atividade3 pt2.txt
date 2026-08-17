@@ -1,0 +1,8 @@
+Quando você roda a Atividade 1, aparece uma tela preta no computador.
+O programa vai perguntando o nome, peso, altura e idade uma coisa de cada vez.
+Você digita tudo e aperta Enter. No final, ele mostra os dados de forma bem simples na tela preta.
+Se você errar e digitar letra no lugar de número, o programa trava ou dá erro.
+Já na Atividade 3, o programa abre janelas bonitas como caixinhas de mensagem.
+Ele pergunta os dados em janelas separadas e avisa se você digitar algo errado.
+Você pode cancelar a qualquer momento apertando o botão Cancelar.
+No final, aparece uma única janela com todos os dados organizados, incluindo se o peso está bom ou não.
